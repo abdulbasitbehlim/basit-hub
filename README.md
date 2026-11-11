@@ -18,7 +18,7 @@ A custom browser start page for daily research in computational biology: genomic
 - **Google apps:** Gmail, Drive, Docs, Sheets, Slides, Calendar, Meet, Colab, Scholar and more.
 - **Lab notes** that save automatically in your browser.
 - **A daily tip** on docking, molecular dynamics or machine learning practice.
-- **Light and dark themes** with high-contrast colours, and a layout that adapts to phones.
+- **Glass design with light and dark themes**, in the same colour gradient as my GitHub profile, and a layout that adapts to phones.
 
 ## Use it as your start page
 
@@ -58,7 +58,7 @@ The 3D viewer and fonts need an internet connection. Everything else works offli
 ## Author
 
 **Abdul Basit Behlim**
-Computational biology · Molecular docking · Machine learning
+Computational Biologist & Bioinformatician
 
 ## License
 

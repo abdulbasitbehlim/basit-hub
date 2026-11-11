@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.1.0 (11 November 2026)
+
+- Glass redesign with a drifting colour background, matching the GitHub profile's gradient
+- Name shown in an animated gradient, with a rotating ring around the photo
+- Designation updated to Computational Biologist & Bioinformatician
+- Quick links to the portfolio, GitHub, Google Scholar and ORCID
+- New gradient helix tab icon
+
 ## 1.0.0 (8 November 2026)
 
 First public release.
